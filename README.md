@@ -31,6 +31,6 @@ A RESTful API built with **FastAPI**, **SQLAlchemy**, and **Alembic** — provid
 ## ⚙️ Run locally with Docker
 
 ```bash
-git clone https://github.com/<smailxpy>/organization-directory-api.git
+git clone https://github.com/smailxpy/organization-directory-api.git
 cd organization-directory-api
 docker compose up --build
